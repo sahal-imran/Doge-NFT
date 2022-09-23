@@ -3,11 +3,11 @@
 body {
   margin: 0;
   padding: 0;
-  box-sizing: border-box;
 }
 * {
   font-family: "Montserrat", sans-serif;
   transition: all 0.3s ease;
+  box-sizing: border-box;
 }
 
 /* Insert your custom font here and paste them in fonts folder */
