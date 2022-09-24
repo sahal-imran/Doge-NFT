@@ -132,3 +132,11 @@ body {
   font-weight: 200;
   font-style: italic;
 } */
+
+#Hero{
+  background-image: url("../public/assets/BG/Hero.png");
+  background-attachment: fixed;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
