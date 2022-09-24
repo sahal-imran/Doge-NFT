@@ -63,10 +63,10 @@ function Navbar() {
                 >
                   <Typography
                     sx={{
-                      fontFamily: "Montserrat",
-                      fontSize: "16px",
+                      fontFamily: "SALOON",
+                      fontSize: "14px",
                       lineHeight: "20px",
-                      fontWeight: 600,
+                      fontWeight: 500,
                       fontStyle: "italic",
                       color: "white",
                       textTransform: "uppercase",
@@ -123,8 +123,8 @@ function Navbar() {
                 boxShadow: "none",
                 color: "rgb(0,0,0)",
                 height: "46px",
-                fontFamily: "Montserrat",
-                fontSize: "18px",
+                fontFamily: "SALOON",
+                fontSize: "14px",
                 lineHeight: "46px",
                 fontWeight: 700,
                 fontStyle: "italic",
@@ -213,10 +213,10 @@ function Navbar() {
                 >
                   <Typography
                     sx={{
-                      fontFamily: "Montserrat",
+                      fontFamily: "SALOON",
                       fontSize: "18px",
                       lineHeight: "20px",
-                      fontWeight: 600,
+                      fontWeight: 500,
                       fontStyle: "italic",
                       color: "black",
                       textTransform: "uppercase",
@@ -291,7 +291,7 @@ function Navbar() {
                 boxShadow: "none",
                 color: "rgb(0,0,0)",
                 height: "46px",
-                fontFamily: "Montserrat",
+                fontFamily: "SALOON",
                 fontSize: "18px",
                 lineHeight: "46px",
                 fontWeight: 700,

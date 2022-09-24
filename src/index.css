@@ -12,6 +12,13 @@ body {
 
 /* Insert your custom font here and paste them in fonts folder */
 
+@font-face {
+  font-family: "SALOON";
+  src: url("./fonts/JMH\ SALOON.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+
 /* Custom fonts */
 /* @font-face {
   font-family: "Metropolis";
@@ -133,7 +140,7 @@ body {
   font-style: italic;
 } */
 
-#Hero{
+#Hero {
   background-image: url("../public/assets/BG/Hero.png");
   background-attachment: fixed;
   background-size: cover;
