@@ -17,6 +17,7 @@ function Story() {
           justifyContent: "center",
           alignItems: "center",
           flexDirection: "column",
+          borderBottom: "2px solid #b8bb2a",
         }}
       >
         <Container
