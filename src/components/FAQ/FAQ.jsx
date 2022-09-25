@@ -18,13 +18,14 @@ function FAQ() {
   return (
     <>
       <Box
+      id={"FAQ"}
         sx={{
           width: "100%",
           display: "flex",
           justifyContent: "center",
           alignItems: "center",
           height: { md: "100vh" },
-          py: { md: 0, xs: 4 },
+          py: { md: 0, xs: 12 },
           //   borderBottom: "2px solid #b8bb2a",
         }}
       >

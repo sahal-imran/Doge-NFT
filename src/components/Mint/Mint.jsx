@@ -17,6 +17,7 @@ function Mint() {
         }}
       >
         <Box
+          id={"Mint"}
           sx={{
             width: "100%",
             height: "100%",
@@ -81,7 +82,7 @@ function Mint() {
               fontSize: { md: "50px", xs: "28px" },
               lineHeight: { md: "60px", xs: "38px" },
               fontWeight: 500,
-              textAlign:"center",
+              textAlign: "center",
               mt: 4,
             }}
           >

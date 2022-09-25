@@ -10,6 +10,7 @@ function Story() {
   return (
     <>
       <Box
+      id={"Story"}
         sx={{
           width: "100%",
           height: "100vh",

@@ -201,6 +201,7 @@ function Navbar() {
             {Menu.map((item, index) => {
               return (
                 <Link
+                  onClick={() => setOpen(!isOpen)}
                   key={index}
                   activeClass="activeMobile"
                   to={item.Name}
