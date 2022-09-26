@@ -11,7 +11,8 @@ function Footer() {
       <Box
         sx={{
           width: "100%",
-          py: { md: 8, xs: 4 },
+          pt:{md:8,xs:4},
+          pb: { md: 2 , xs: 2 },
           borderBottom: "12px solid #b8bb2a",
         }}
       >

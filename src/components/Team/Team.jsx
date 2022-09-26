@@ -62,12 +62,11 @@ function Team() {
           </Typography>
 
           {/* Team */}
-          <Box sx={{ flexGrow: 1, width: "100%", mt: 6 }}>
+          <Box sx={{ flexGrow: 1, width: { md: "80%", xs: "100%" }, mt: 6 }}>
             <Grid
               container
               columnSpacing={2}
               rowSpacing={4}
-              columns={{ md: 15, xs: 12 }}
             >
               {TeamData.map((item, index) => {
                 return (
@@ -165,11 +164,6 @@ const TeamData = [
   {
     Name: "Sahalimran",
     Rank: "Web developer",
-    URL: "/assets/Team/01.png",
-  },
-  {
-    Name: "jhon Doe",
-    Rank: "The Developer",
     URL: "/assets/Team/01.png",
   },
   {

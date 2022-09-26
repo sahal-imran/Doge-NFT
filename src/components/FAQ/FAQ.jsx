@@ -24,7 +24,7 @@ function FAQ() {
           display: "flex",
           justifyContent: "center",
           alignItems: "center",
-          height: { md: "100vh" },
+          height: { md: "80vh" },
           py: { md: 0, xs: 12 },
           //   borderBottom: "2px solid #b8bb2a",
         }}

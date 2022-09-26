@@ -11,7 +11,7 @@ function Hero() {
         id="Hero"
         sx={{
           width: "100%",
-          height: "100vh",
+          height: "90vh",
         }}
       >
       </Box>

@@ -9,11 +9,9 @@ function Mint() {
   return (
     <>
       <Box
-        id={"Hero"}
         sx={{
           width: "100%",
-          height: { md: "100vh" },
-          mt: "-350px",
+          mt: { md: "-275px", xs:"-230px" },
         }}
       >
         <Box
@@ -64,7 +62,7 @@ function Mint() {
           >
             CONNECT WALLET
           </Button>
-          <Box sx={{ flexGrow: 1, mt: 10, width: "100%" }}>
+          {/* <Box sx={{ flexGrow: 1, mt: 10, width: "100%" }}>
             <Grid container spacing={0} columns={16}>
               {NFTs.map((item, index) => {
                 return (
@@ -87,7 +85,7 @@ function Mint() {
             }}
           >
             Money Leopard Bar
-          </Typography>
+          </Typography> */}
         </Box>
       </Box>
     </>
