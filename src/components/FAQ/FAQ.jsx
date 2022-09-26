@@ -24,7 +24,7 @@ function FAQ() {
           display: "flex",
           justifyContent: "center",
           alignItems: "center",
-          height: { md: "80vh" },
+          height: { md: "100vh" },
           py: { md: 0, xs: 12 },
           //   borderBottom: "2px solid #b8bb2a",
         }}
@@ -129,6 +129,18 @@ const Utilities = [
   {
     Title: "When is the launch? How much does it cost?",
     des: "TBD. The price is 0.018 eth each. You can maximumly mint 10 NFTs per wallet.",
+  },
+  {
+    Title: "What is the artwork inspired from?",
+    des: "It is obvious that the art of Doge Club is inspired by Bayc and meme doge. The Doge Club NFT corresponds to BAYC 1:1, which means that BAYC#1 and Doge Club #1 have the same outfit.",
+  },
+  {
+    Title: "When is the launch? How much does it cost?",
+    des: "TBD. The price is 0.018 eth each. You can maximumly mint 10 NFTs per wallet.",
+  },
+  {
+    Title: "What is the artwork inspired from?",
+    des: "It is obvious that the art of Doge Club is inspired by Bayc and meme doge. The Doge Club NFT corresponds to BAYC 1:1, which means that BAYC#1 and Doge Club #1 have the same outfit.",
   },
   {
     Title: "What is the artwork inspired from?",
